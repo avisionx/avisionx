@@ -1,3 +1,4 @@
+```javascript
 const Hello World! 👋 = {
   🔭: I’m currently cleaning up my codebase,
   🌱: I’m currently learning,
@@ -8,6 +9,7 @@ const Hello World! 👋 = {
   😄 Pronouns:,
   ⚡ Fun fact
 }
+```
 
 <!--START_SECTION:waka-->
 ```text
