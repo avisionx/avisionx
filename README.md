@@ -10,6 +10,7 @@ const h3ll0_w0rld!👋 = {
 }
 ```
 
+📊 Weekly Stats Breakdown
 <!--START_SECTION:waka-->
 ```text
 No Activity tracked this Week
