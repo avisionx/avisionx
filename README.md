@@ -6,7 +6,6 @@ const h3ll0_w0rld!👋 = {
   🤔: "I’m looking for help with advanced autodeploy actions",
   💬: "Ask me about anything",
   📫: "To reach me visit https://avisionx.net",
-  😄: ":",
   ⚡: "Fun Fact; A crocodile cannot stick its tongue out"
 }
 ```
