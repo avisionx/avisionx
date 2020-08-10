@@ -1,13 +1,13 @@
 ```javascript
-const `h3ll0_w0rld!👋` = {
+const h3ll0_w0rld!👋 = {
   🔭: I’m currently cleaning up my codebase,
   🌱: I’m currently learning,
-  👯 I’m looking to collaborate on,
-  🤔 I’m looking for help with,
-  💬 Ask me about,
-  📫 How to reach me:,
-  😄 Pronouns:,
-  ⚡ Fun fact
+  👯: I’m looking to collaborate on,
+  🤔: I’m looking for help with,
+  💬: Ask me about,
+  📫: How to reach me:,
+  😄: Pronouns:,
+  ⚡: Fun fact
 }
 ```
 
