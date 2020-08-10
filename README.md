@@ -1,5 +1,5 @@
 ```javascript
-const Hello World! 👋 = {
+const `h3ll0_w0rld!👋` = {
   🔭: I’m currently cleaning up my codebase,
   🌱: I’m currently learning,
   👯 I’m looking to collaborate on,
