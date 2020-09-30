@@ -1,5 +1,5 @@
+<img src="http://clipart-library.com/img/1177962.png" width="100" height="100" style="position:absolute; top: 0; left: 0" />
 <p align="center"><img src="https://user-images.githubusercontent.com/32339251/93027249-52b66a80-f629-11ea-93d6-82f67bf891cc.png" width="30%" /></p>
-
 <h3 align="center" style="margin: 0px">Hello World! I am Avi Garg, an engineer 👨🏻‍🔬</h3>
 <p align="center"><a href="http://avisionx.net/" target="_blank">ᴡᴇʙsɪᴛᴇ</a> ‧ <a href="https://www.linkedin.com/in/avisionx/" target="_blank">ʟɪɴᴋᴇᴅɪɴ</a> ‧ <a href="https://www.behance.net/avisionx" target="_blank">ʙᴇʜᴀɴᴄᴇ</a></p>
 
@@ -31,3 +31,5 @@ JSON         16 mins         ▓░░░░░░░░░░░░░░░░
 <!--END_SECTION:waka-->
 
 </details>
+
+<img src="http://clipart-library.com/img/1177962.png" width="100" height="100" style="position:absolute; top: 0; left: 0; transform: rotate(180deg)" />
