@@ -31,4 +31,9 @@ HTML     1 min           █░░░░░░░░░░░░░░░░░�
 
 </details>
 
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=avisionx&repo=avisionx" /> <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=avisionx&repo=wakatime-updates-tracker" /></p>
+<a href="#">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=avisionx&repo=avisionx" />
+</a>
+<a href="#">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=avisionx&repo=wakatime-updates-tracker" />
+</a>
