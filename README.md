@@ -30,3 +30,5 @@ HTML     1 min           █░░░░░░░░░░░░░░░░░�
 <!--END_SECTION:waka-->
 
 </details>
+
+<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=avisionx&repo=avisionx" /> <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=avisionx&repo=wakatime-updates-tracker" /></p>
