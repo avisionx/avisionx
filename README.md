@@ -17,7 +17,7 @@ const h3ll0_w0rld!👋 = {
 ``` -->
 
 <details open>
-<summary>📊 Weekly Stats Breakdown</summary>
+<summary>📊 Weekly Top Language Stats Breakdown</summary>
 
 <!--START_SECTION:waka-->
 ```text
