@@ -16,7 +16,7 @@ const h3ll0_w0rld!👋 = {
 }
 ``` -->
 
-<a href="https://sourcerer.io/avisionx"><img src="https://raw.githubusercontent.com/avisionx/sourcerer-profile-chart/master/avisionx-sourcerer-chart.png" width="100%" /></a>
+<a href="https://github.com/avisionx/sourcerer-profile-chart"><img src="https://raw.githubusercontent.com/avisionx/sourcerer-profile-chart/master/avisionx-sourcerer-chart.png" width="100%" /></a>
 
 <details open>
 <summary>📊 Weekly Top Language Stats Breakdown</summary>
