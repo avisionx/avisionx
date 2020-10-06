@@ -17,18 +17,26 @@ const h3ll0_w0rld!👋 = {
 ``` -->
 
 <details open>
-<summary>📊 Weekly Top Language Stats Breakdown</summary>
+<summary>This is me having fun ⚡</summary>
+ 
+<a href="https://sourcerer.io/avisionx"><img src="https://raw.githubusercontent.com/avisionx/sourcerer-profile-chart/master/avisionx-sourcerer-chart.png" width="50%" /></a><a href="https://wakatime.com/avisionx"><img src="https://github-readme-stats.vercel.app/api/wakatime?username=@avisionx&line_height=20&hide_border=true&custom_title=📊+Weekly+Top+Language+Stats+Breakdown&title_color=064A76&text_color=555555" width="50%" /></a>
 
+</details>
+
+
+<!--<details open>
+<summary>📊 Weekly Top Language Stats Breakdown</summary>-->
+  
 <!--START_SECTION:waka-->
-```text
+
+<!--```text
 Python       3 hrs 48 mins   ██████████░░░░░░░░░░░░░░░   39.95 % 
 JavaScript   3 hrs 17 mins   ████████▓░░░░░░░░░░░░░░░░   34.51 % 
 Markdown     41 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.34 % 
 JSON         33 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.89 % 
 HTML         30 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.37 % 
-```
+```-->
+
 <!--END_SECTION:waka-->
 
-</details>
-
-<!-- ![](https://github-readme-stats.vercel.app/api/wakatime?username=@avisionx&line_height=20&custom_title=%F0%9F%93%8A+Top+Language+Stats+Breakdown) -->
+<!--</details>-->
