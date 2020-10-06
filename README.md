@@ -30,3 +30,5 @@ HTML         30 mins         █▒░░░░░░░░░░░░░░░
 <!--END_SECTION:waka-->
 
 </details>
+
+<!-- ![](https://github-readme-stats.vercel.app/api/wakatime?username=@avisionx&line_height=20&custom_title=%F0%9F%93%8A+Top+Language+Stats+Breakdown) -->
