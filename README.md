@@ -23,7 +23,7 @@ const h3ll0_w0rld!👋 = {
   
 <!--START_SECTION:waka-->
 ```text
-Markdown     25 mins         ████████████████████████░   96.47 % 
+
 ```
 <!--END_SECTION:waka-->
 
