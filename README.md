@@ -23,7 +23,7 @@ const h3ll0_w0rld!👋 = {
   
 <!--START_SECTION:waka-->
 ```text
-JavaScript   1 hr 2 mins     ████████████████████████▓   98.85 % 
+No Activity tracked this Week
 ```
 <!--END_SECTION:waka-->
 
